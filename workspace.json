@@ -3,8 +3,8 @@
      *  An array of the paths to all the applications present in this workspace
      */
     "apps": [
-        "extApps/app1",
-        "extApps/app2"
+        "app1",
+        "app2"
     ],
 
     /**
