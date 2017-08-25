@@ -6,6 +6,8 @@
 	extjs6.5.1 sdk
 
 	java
+	
+	sencha
 
 将代码下载到本地:
 
@@ -19,11 +21,11 @@ git clone git@github.com:xiaoshi19890714/ExtJsWorkspace.git
 	
 	cd extApps/app1
 	
-	sencha app refresh
+	sencha app watch (暂时build不过  用watch代替)
 	
 	cd ../app2
 	
-	sencha app refresh
+	sencha app watch (暂时build不过  用watch代替)
 	
 此时准备初始化工作已经完毕
 
