@@ -12,7 +12,7 @@ Ext.define('ExtApp2.view.main.List', {
     title: 'Personnel',
 
     store: {
-        type: 'personnel-app1'
+        type: 'personnel-app2'
     },
 
     columns: [

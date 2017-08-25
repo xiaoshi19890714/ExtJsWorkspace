@@ -10,10 +10,14 @@ Ext.define('ExtApp2.view.main.Main', {
 	extend : 'Ext.tab.Panel',
 	xtype : 'app-main',
 
-	requires : [ 'Ext.plugin.Viewport', 'Ext.window.MessageBox',
+	requires : [ 
+		'Ext.plugin.Viewport', 
+		'Ext.window.MessageBox',
 
-	'ExtApp2.view.main.MainController', 'ExtApp2.view.main.MainModel',
-			'ExtApp2.view.main.List' ],
+		'ExtApp2.view.main.MainController', 
+		'ExtApp2.view.main.MainModel',
+		'ExtApp2.view.main.List' 
+	],
 
 	controller : 'main',
 	viewModel : 'main',

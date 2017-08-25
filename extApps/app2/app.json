@@ -33,7 +33,7 @@
         "app",
         "${toolkit.name}/src",
         "${workspace.dir}/extApps/app1/app",
-        "${workspace.dir}/extApps/app1/classic"
+        "${workspace.dir}/extApps/app1/${toolkit.name}/src"
     ],
 
     /**
