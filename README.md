@@ -21,11 +21,11 @@ git clone git@github.com:xiaoshi19890714/ExtJsWorkspace.git
 	
 	cd extApps/app1
 	
-	sencha app watch (暂时build不过  用watch代替)
+	sencha app build (目的是初始化代码,生成bootstrap.js)
 	
 	cd ../app2
 	
-	sencha app watch (暂时build不过  用watch代替)
+	sencha app build (目的是初始化代码,生成bootstrap.js)
 	
 此时准备初始化工作已经完毕
 
